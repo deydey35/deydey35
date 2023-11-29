@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deydey35
 - 👀 I’m completely new to the coding world
-- 🌱 I’m currently learning python just for fun✨
+- 🌱 I’m currently learning css html and js
 - feel free to share any tips or whatnots for my coding journey! 
 
 <!---
